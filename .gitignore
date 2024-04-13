@@ -1,0 +1,9 @@
+*.bin
+*.elf
+*.list
+*.map
+!object.list
+*.d
+*.o
+*.su
+test-result*.xml
